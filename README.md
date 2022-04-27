@@ -2,7 +2,7 @@
 
 -   Identifying weather a Passenger is  **Satisfied**  or  **Unsatisfied**  based on the flight travel history. This problem is a  **classification Problem**.
     
--   Machine Learning algos I have applied for this project are   **Logistic Regression**,  **Decision Tree**  and  **Random Forest**.
+-   Machine Learning algorithms I have applied for this project are   **Logistic Regression**,  **Decision Tree**  and  **Random Forest**.
 
 - The dataset consist of information of passengers boarding and deboarding information and the services provided during the travel in the flight.
 
