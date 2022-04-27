@@ -18,4 +18,15 @@
 ![enter image description here](https://github.com/Harshada-m/Customer-Flight-Satisfaction-Prediction/blob/main/Image2.png?raw=true)
 
 
+## Conclusion
+
+-   Studied  **in-depth**  about the various  **features**  in the data, their  **characteristics**  and their  **distributions**.
+
+-   Went through an  **extensive**  and  **thorough**  data analysis process, exploring various relationships between the different  **features**.
+    
+-   **Encoded**  the  _categorical data_  and  **removed**  any  _redundant columns_  to make our dataset fit for training.
+    
+-   Tested different models, performed  **cross-validation**  on them, and compared their performance.
+
+
 You can check the notebook by clicking [here](https://github.com/Harshada-m/Customer-Flight-Satisfaction-Prediction/blob/main/Flight%20Passenger%20Satisfaction%20Prediction.ipynb).
