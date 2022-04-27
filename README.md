@@ -9,7 +9,7 @@
 
 ![enter image description here](https://github.com/Harshada-m/Customer-Flight-Satisfaction-Prediction/blob/main/Airline%20satisfaction%20Image1.png?raw=true)
 
-**Train Dataset : **
+**Train Dataset :**
  - The train set contains **83123** rows and **24** columns. 
 
 **Test Dataset :**
@@ -19,6 +19,3 @@
 
 
 You can check the notebook by clicking [here](https://github.com/Harshada-m/Customer-Flight-Satisfaction-Prediction/blob/main/Flight%20Passenger%20Satisfaction%20Prediction.ipynb).
-
-
-
